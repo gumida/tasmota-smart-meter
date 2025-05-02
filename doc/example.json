@@ -1,0 +1,14 @@
+{
+  "StatusSNS": {
+    "Time": "2025-05-01T09:17:34",
+    "ENERGY": {
+      "Total": 69858.0068,
+      "Supply": 692.4472,
+      "Power": 50,
+      "Voltage": 237.4,
+      "Current": 0.53,
+      "Freq": 49.9,
+      "ID": "0a014546597602h21dcf"
+    }
+  }
+}
