@@ -1,0 +1,11 @@
+{
+    "uuid": "tasmota-smart-meter@gumida",
+    "name": "Tasmota Smart Meter",
+    "description": "Displays real-time power consumption from Tasmota-based smart meters. Tested with WattWaechter devices.",
+    "version": "1.8.0",
+    "max-instances": "-1",
+    "multiversion": false,
+    "developer": "gumida",
+    "website": "https://github.com/gumida/tasmota-smart-meter",
+    "last-updated": "2025-05-02"
+}
